@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.d4d7dc81.chunk.css",
+    "main.js": "/react-deploy/static/js/main.4ae431a2.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.4ae431a2.chunk.js.map",
+    "runtime-main.js": "/react-deploy/static/js/runtime-main.43df6dd4.js",
+    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.43df6dd4.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/react-deploy/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.48717685.chunk.js": "/react-deploy/static/js/2.48717685.chunk.js",
+    "static/js/2.48717685.chunk.js.map": "/react-deploy/static/js/2.48717685.chunk.js.map",
+    "index.html": "/react-deploy/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/react-deploy/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.d4d7dc81.chunk.css.map": "/react-deploy/static/css/main.d4d7dc81.chunk.css.map",
+    "static/js/2.48717685.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.48717685.chunk.js.LICENSE.txt",
+    "static/media/Abhii-removed.58ecaaa5.png": "/react-deploy/static/media/Abhii-removed.58ecaaa5.png",
+    "static/media/App.css": "/react-deploy/static/media/background-website-hd-19.f95f6259.jpg",
+    "static/media/mysecpic.aaea3d82.png": "/react-deploy/static/media/mysecpic.aaea3d82.png",
+    "static/media/pic-1.dae1812d.jpg": "/react-deploy/static/media/pic-1.dae1812d.jpg",
+    "static/media/pic-2.c4984835.jpg": "/react-deploy/static/media/pic-2.c4984835.jpg",
+    "static/media/pic-3.e4e9f771.jpg": "/react-deploy/static/media/pic-3.e4e9f771.jpg",
+    "static/media/pic-4.b4b62b32.jpg": "/react-deploy/static/media/pic-4.b4b62b32.jpg",
+    "static/media/sonagir.dca28b42.png": "/react-deploy/static/media/sonagir.dca28b42.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43df6dd4.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.48717685.chunk.js",
+    "static/css/main.d4d7dc81.chunk.css",
+    "static/js/main.4ae431a2.chunk.js"
+  ]
+}
